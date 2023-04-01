@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Hanunoo&family=Playfair+Display&display=swa");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css"); 
+
+
+body{
+
+}
+
+body{
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+}
+
+h1, h3 {
+  font-family: 'Noto Sans Hanunoo', sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Noto Sans Hanunoo', sans-serif;
+  font-weight: bold;
+  margin: 30px;
+  margin-top: 30px;
+ }
+
+a{
+	text-decoration: none;
+}
